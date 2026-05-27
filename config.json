@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdetch",
+        "uuid": 17504405,
+        "checksum": "64apk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
